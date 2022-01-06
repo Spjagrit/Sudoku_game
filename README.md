@@ -1,1 +1,1 @@
-# Sudoku_game
+# Sudoku_game(9x9)
